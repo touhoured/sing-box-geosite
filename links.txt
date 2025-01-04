@@ -1,3 +1,3 @@
-https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/ee68726c47bd74709cba6089acc95a4d7e163d4b/generated/rule-provider-reject.yaml
-https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/ee68726c47bd74709cba6089acc95a4d7e163d4b/generated/rule-provider-direct.yaml
-https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/ee68726c47bd74709cba6089acc95a4d7e163d4b/generated/rule-provider-proxy.yaml
+https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/main/generated/rule-provider-reject.yaml
+https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/main/generated/rule-provider-direct.yaml
+https://raw.githubusercontent.com/SunsetMkt/anti-ip-attribution/main/generated/rule-provider-proxy.yaml
