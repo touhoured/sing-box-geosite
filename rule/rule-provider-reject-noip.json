@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "httpdns.bilivideo.com"
+      ]
+    }
+  ],
+  "version": 2
+}
